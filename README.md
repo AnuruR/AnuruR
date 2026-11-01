@@ -1,6 +1,6 @@
 ## Hi there
 
-<h2 data-importer="text" align="left">Hi 👋! My name is Anuru Rathnayake and I'm a Computer Engineering Undergraduate at Faculty of Engineering, University of Ruhuna. ....</h2>
+<h2 data-importer="text" align="left">Hi! My name is Anuru Rathnayake and I'm a Computer Engineering Undergraduate at Faculty of Engineering, University of Ruhuna. ....</h2>
 
 ###
 
