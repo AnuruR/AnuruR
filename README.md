@@ -6,8 +6,15 @@
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/AnuruR/AnuruR/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/AnuruR/AnuruR/activity-graph-output/activity-graph.svg?area=true&hide_border=true&hide_title=true&theme=github-dark" height="150" alt="activity-graph graph"  />
-  <img src="https://raw.githubusercontent.com/AnuruR/AnuruR/trophy-output/trophy.svg?no-frame=true&no-bg=false&theme=tokyonight" height="150" alt="trophy graph"  />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AnuruR&area=true&hide_border=true&hide_title=true&theme=github-dark"
+    height="150"
+    alt="GitHub Activity Graph"
+  />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=AnuruR&no-frame=true&no-bg=false&theme=tokyonight"
+    alt="GitHub Trophies"
+  />
 </div>
 
 ###
