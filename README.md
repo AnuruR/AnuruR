@@ -1,49 +1,40 @@
-## Hi there
+# Hi, I'm Anuru 👋
 
-<h2 data-importer="text" align="left">Hi! My name is Anuru Rathnayake and I'm a Computer Engineering Undergraduate at Faculty of Engineering, University of Ruhuna. ....</h2>
+I'm a Computer Engineering undergraduate at the University of Ruhuna. I'm most interested in the part of software you don't see: how work gets queued, split up and finished reliably.
 
-###
+I'm looking for a software engineering internship where I can learn from a strong team and ship real code.
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/AnuruR/AnuruR/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
+## What I work with
 
-###
+- **Languages:** Go, JavaScript, TypeScript
+- **Web:** HTML/CSS, Tailwind CSS, Vue 3
+- **Also used:** Python, C#
+- **Interested in:** backend systems, APIs, queues and schedulers, clean and readable code
 
-<img data-importer="image" align="right" height="150" src="https://avatars.githubusercontent.com/u/219666882?v=4"  />
+## Projects I'm proudest of
 
-###
+**[Telos](https://github.com/sithumkoswattage/Telos)** · Go
+A job management system that distributes compute-heavy work across nodes using a priority queue. My part: [one line on what you built, e.g. the scheduler, the node communication, the queue logic].
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+**[University Lost & Found System](https://github.com/AnuruR/University-Lost-Found-System)** · JavaScript
+[One line on what it does, who uses it and how it stores data. Add a screenshot or demo link.]
 
-###
+**[Hazard Infrastructure Mapper](https://github.com/AnuruR/Hazard-Hazardous-Infrastructure-Mapper)** · JavaScript
+[One line on what problem it maps and who it helps.]
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-</div>
+**Smaller practice project:** [Mini-Vue-SPA](https://github.com/AnuruR/Mini-Vue-SPA), a Vue 3 + TypeScript front end that consumes a public API, where I practised components and data fetching.
 
-###
+## Right now
 
-<br clear="both">
+- [Currently working on ML related projects, Mobile App Development]
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/AnuruR/AnuruR/snake-output/snake.svg" alt="Snake animation" />
+## Beyond code
 
-###
+I'm the webmaster for the IEEE Power Electronics Society on the IEEE Student Branch of University of Ruhuna, so I also build and maintain things for a real audience.
+
+## Let's talk
+
+- LinkedIn: [anuru-rathnayake](https://linkedin.com/in/anuru-rathnayake)
+- Email: ruthiraka2003@gmail.com
+
+Always happy to talk about code, projects or internships.
